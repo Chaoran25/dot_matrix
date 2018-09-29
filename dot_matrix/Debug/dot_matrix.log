@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\master\dot\dot_matrix\dot_matrix\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+d:\master\dot\dot_matrix\dot_matrix\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\master\dot\dot_matrix\dot_matrix\main.cpp(264): warning C4018: '<': signed/unsigned mismatch
+  dot_matrix.vcxproj -> D:\Master\dot\dot_matrix\Debug\dot_matrix.exe
